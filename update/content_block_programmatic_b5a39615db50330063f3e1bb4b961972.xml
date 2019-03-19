@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_programmatic">
+    <content_block_programmatic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame display_value="frame_grey_border">cf52ad460a0a0b6300321234a7187571</frame>
+        <logged_on>false</logged_on>
+        <name>Contact</name>
+        <programmatic_content><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<ul style="list-style-position: inside;">
+<li>Contact Details: <a href="https://globalcontacts.cloudapps.cisco.com/contacts/contactDetails/en_US/c1o1-c2o2-c3o8" rel="noopener noreferrer nofollow">https://globalcontacts.cloudapps.cisco.com/contacts/contactDetails/en_US/c1o1-c2o2-c3o8</a></li>
+</ul>
+</j:jelly>]]></programmatic_content>
+        <sys_class_name>content_block_programmatic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-19 09:00:58</sys_created_on>
+        <sys_id>b5a39615db50330063f3e1bb4b961972</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Contact</sys_name>
+        <sys_package display_value="Test" source="x_302303_test">050dfd55db10330063f3e1bb4b961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">050dfd55db10330063f3e1bb4b961971</sys_scope>
+        <sys_update_name>content_block_programmatic_b5a39615db50330063f3e1bb4b961972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-19 09:01:04</sys_updated_on>
+        <two_phase>false</two_phase>
+    </content_block_programmatic>
+</record_update>

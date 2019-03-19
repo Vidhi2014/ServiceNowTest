@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_link">
+    <content_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <detail_page/>
+        <iframe/>
+        <image/>
+        <name>Support</name>
+        <order/>
+        <sys_class_name>content_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-19 07:22:32</sys_created_on>
+        <sys_id>1f1df195db10330063f3e1bb4b96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support</sys_name>
+        <sys_package display_value="Test" source="x_302303_test">050dfd55db10330063f3e1bb4b961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">050dfd55db10330063f3e1bb4b961971</sys_scope>
+        <sys_update_name>content_link_1f1df195db10330063f3e1bb4b96199e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-19 07:22:32</sys_updated_on>
+        <tag/>
+        <target>_blank</target>
+        <type>url</type>
+        <url>https://globalcontacts.cloudapps.cisco.com/contacts/contactDetails/en_US/c1o1-c2o2-c3o8</url>
+    </content_link>
+</record_update>

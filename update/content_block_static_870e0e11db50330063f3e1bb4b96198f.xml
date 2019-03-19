@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_static">
+    <content_block_static action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame display_value="frame_grey_border">cf52ad460a0a0b6300321234a7187571</frame>
+        <logged_on>false</logged_on>
+        <name>Support Contact</name>
+        <static_content><![CDATA[<ul style="list-style-position: inside;"><li>Contact Details: <a href="https://globalcontacts.cloudapps.cisco.com/contacts/contactDetails/en_US/c1o1-c2o2-c3o8" rel="nofollow">https://globalcontacts.cloudapps.cisco.com/contacts/contactDetails/en_US/c1o1-c2o2-c3o8</a></li></ul>
+<p> </p>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-19 08:36:49</sys_created_on>
+        <sys_id>870e0e11db50330063f3e1bb4b96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Contact</sys_name>
+        <sys_package display_value="Test" source="x_302303_test">050dfd55db10330063f3e1bb4b961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">050dfd55db10330063f3e1bb4b961971</sys_scope>
+        <sys_update_name>content_block_static_870e0e11db50330063f3e1bb4b96198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-19 08:36:49</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="delete_multiple" query="documentkey=870e0e11db50330063f3e1bb4b96198f"/>
+</record_update>
